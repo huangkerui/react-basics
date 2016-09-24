@@ -1,0 +1,22 @@
+{
+  "name": "react-basics",
+  "version": "0.0.1",
+  "description": "an excercise of React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangkerui/react-basics.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "huangkerui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangkerui/react-basics/issues"
+  },
+  "homepage": "https://github.com/huangkerui/react-basics#readme"
+}
